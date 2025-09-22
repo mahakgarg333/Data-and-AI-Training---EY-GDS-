@@ -1,0 +1,34 @@
+# Mahak Garg 
+# Data and AI training 
+
+
+print("Hello World ")
+
+
+def greet(user):
+    return f"Hello {user}"
+name = input("Enter your name: ")
+message = greet(name)
+print(message)
+
+
+def check_number(num):
+    if num%2 == 0:
+        return f"{num} is Even"
+    else:
+        return f"{num} is Odd"
+
+
+number = int(input("Enter a number: "))
+result = check_number(number)
+print(result)
+
+
+for i in range(1,6):
+    print(i)
+
+
+
+numbers = [10, 20, 30, 40, 50]
+print(numbers[0])
+print(numbers[-1])
