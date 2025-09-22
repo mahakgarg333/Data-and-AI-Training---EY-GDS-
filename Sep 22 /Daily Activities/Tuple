@@ -1,0 +1,12 @@
+
+#Tuple
+colors = ("red", "blue", "green")
+print(colors[0])
+print(colors[-1])
+
+#unpacking tuples
+person = ("Mahak", 22, "India")
+name, age , city = person
+print(name)
+print(age)
+print(city)
