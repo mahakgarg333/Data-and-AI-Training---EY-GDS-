@@ -1,3 +1,4 @@
+#CRUD + Database Module — Product & Customer Management
 import sqlite3
 import pandas as pd
 
