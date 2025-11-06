@@ -1,0 +1,8 @@
+name,email,phone,linkedin,github,skills,experience_years,education,previous_employer,address,govt_id,criminal_record
+Rajesh Verma,rajesh.verma@gmail.com,9876543210,linkedin.com/in/rajesh-verma,github.com/rajeshverma,Python,2,University of Delhi (DU),TCS,New Delhi,AADHAR1234,No
+Kabir Singh,kabir.singh@gmail.com,9876500000,linkedin.com/in/kabir-singh,github.com/kabirsingh,Java,1.5,Birla Institute of Technology and Science (BITS Pilani),Infosys,Mumbai,AADHAR5678,No
+Meera Menon,meera.menon@gmail.com,9876511111,linkedin.com/in/meera-menon,github.com/meeramenon,Python,0.8,Manipal University,Intern at Wipro,Bangalore,AADHAR4321,No
+Nisha Joshi,nisha.joshi@gmail.com,9876522222,linkedin.com/in/nisha-joshi,github.com/nishajoshi,Data Science,3,Indian Institute of Technology Delhi (IIT Delhi),Google,Gurgaon,AADHAR9876,No
+Anita Rao,anita.rao@gmail.com,9876533333,linkedin.com/in/anita-rao,github.com/anitarao,Web Development,1.2,Christ University Bangalore,Zoho,Chennai,AADHAR3456,No
+Arjun Kumar,arjun.kumar@gmail.com,9876544444,linkedin.com/in/arjun-kumar,github.com/arjunkumar,AI/ML,0.5,University of Petroleum and Energy Studies (UPES Dehradun),Intern at TCS,Dehradun,AADHAR2468,No
+Sara Ali,sara.ali@gmail.com,9876555555,linkedin.com/in/sara-ali,github.com/saraali,Cloud Computing,2,SRM Institute of Science and Technology,Amazon,Hyderabad,AADHAR1357,No
