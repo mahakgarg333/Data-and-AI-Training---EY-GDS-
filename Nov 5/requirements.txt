@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+requests
+pydantic
+pandas
+langchain
+openai   # optional if you want to use OpenAI LLMs
+autogen-agent # placeholder: your autogen package (install exact package you use)
